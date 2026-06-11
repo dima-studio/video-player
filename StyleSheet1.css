@@ -1,0 +1,33 @@
+
+.player-container 
+{
+  text-align: center;
+  margin-top: 20px;
+}
+
+video 
+{
+  border-radius: 10px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+}
+
+.controls 
+{
+  margin-top: 10px;
+}
+
+button 
+{
+  padding: 10px 25px;
+  margin: 5px;
+  background-color: orange;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+  button:hover 
+  {
+    background-color: orangered;
+  }
